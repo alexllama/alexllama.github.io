@@ -2,7 +2,7 @@
     box-sizing: border-box;
   }
   .wrapper {
-    max-width: 1366px;
+    max-width: 1900px;
     margin: 0 auto;
     font:
       1.2em Helvetica,
@@ -17,7 +17,7 @@
   .wrapper {
     display: grid;
     grid-template-columns: repeat(12, [col-start] 1fr);
-    gap: 5px;
+    gap: 0px;
   }
   
   .wrapper > * {
