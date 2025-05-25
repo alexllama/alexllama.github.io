@@ -1,3 +1,33 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://alexllama.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Strings and Tines'
+theme = 'blowfish'
+
+# Required for the Blowfish theme
+enableRobotsTXT = true
+[pagination]
+  pagerSize = 20
+summaryLength = 30
+
+[params]
+  # (Optional) If you're using Google Analytics, add your tracking ID here
+  googleAnalytics = ""
+  mainSections = ["posts"]
+  description = "A collection of handmade musical instruments"
+
+[markup.highlight]
+  noClasses = false
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 10
+  [[menu.main]]
+    name = "Instruments"
+    url = "/instruments/"
+    weight = 20
+  [[menu.main]]
+    name = "Other Projects"
+    url = "/otherprojects/"
+    weight = 30
