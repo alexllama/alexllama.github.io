@@ -1,6 +1,6 @@
 ---
 title: "PC Speakers and Woodworking Kit Box Amp"
-date: 20MM-DD-YY
+date: 2019-06-04
 draft: false
 description: "PC Speakers and Woodworking Kit Box Amp"
 tags: ["amp", "amplifier", "diy", "homemade instrument"]

@@ -5,8 +5,10 @@ theme = 'blowfish'
 
 # Required for the Blowfish theme
 enableRobotsTXT = true
+
 [pagination]
   pagerSize = 20
+
 summaryLength = 30
 
 [params]
@@ -17,6 +19,10 @@ summaryLength = 30
 
 [markup.highlight]
   noClasses = false
+
+# Ignore specific Hugo warnings
+[logging]
+  ignoreLogs = ['warning-partial-superfluous-prefix']
 
 [menu]
   [[menu.main]]
