@@ -13,6 +13,6 @@ One day as I was doing a trash run while camping, I spotted this metal tank next
 {{< figure src="2024-01-03 19.00.10.jpg" caption="Stuffed with paper towels to dull the metallic sound" >}}
 {{< figure src="2024-01-03 18.59.49.jpg" caption="Cutting the tongues lowers the pitch. Have to cut slowly while tuning" >}}
 {{< figure src="2023-10-29 12.33.17.jpg" caption="Water heater" >}}
-{{< figure src="2023-10-29-12.32.35.jpg" caption="Laying out the tongue templates" >}}
-{{< figure src="2023-11-11-13.52.44.jpg" caption="Almost done, ready for painting" >}}
-{{< figure src="2024-01-03-18.59.39.jpg" caption="Hammers from an old piano" >}}
+{{< figure src="2023-10-29 12.32.35.jpg" caption="Laying out the tongue templates" >}}
+{{< figure src="2023-11-11 13.52.44.jpg" caption="Almost done, ready for painting" >}}
+{{< figure src="2024-01-03 18.59.39.jpg" caption="Hammers from an old piano" >}}

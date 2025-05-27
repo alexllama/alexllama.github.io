@@ -9,4 +9,4 @@ We had a tree fall in our backyard, so I took a chunk of it to make a kalimba.
 
 {{< figure src="2017-12-17 10.17.54-2.jpg" caption="The finished product" >}}
 {{< figure src="2017-12-17 10.20.07.jpg" caption="" >}}
-{{< figure src="2017-12-17-10.20.11.jpg" caption="" >}}
+{{< figure src="2017-12-17 10.20.11.jpg" caption="" >}}

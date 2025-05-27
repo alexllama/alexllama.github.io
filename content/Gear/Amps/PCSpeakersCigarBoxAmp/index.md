@@ -1,6 +1,6 @@
 ---
 title: "PC Speakers Cigar Box Amp"
-date: 2019-06-04
+date: 2019-03-02
 draft: false
 description: "PC Speakers Cigar Box Amp"
 tags: ["amp", "amplifier", "diy", "homemade instrument", "PC speakers", "cigar box"]

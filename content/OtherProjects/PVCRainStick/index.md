@@ -10,9 +10,9 @@ A somewhat easy project to make with the kids. All you need is a PVC tube and a 
 {{< youtube AnRA_vzlyzE >}}
 
 {{< figure src="13325541_10154293618134312_4972133489950307569_n.jpg" caption="One of my favorite pictures. Such sass!" >}}
-{{< figure src="2022-01-23-14.20.11.jpg" caption="The finished product" >}}
-{{< figure src="2022-01-23-14.20.26.jpg" caption="Colorful string to make it pop" >}}
-{{< figure src="2022-01-23-14.20.44.jpg" caption="We used quite a lot of nails" >}}
+{{< figure src="2022-01-23 14.20.11.jpg" caption="The finished product" >}}
+{{< figure src="2022-01-23 14.20.26.jpg" caption="Colorful string to make it pop" >}}
+{{< figure src="2022-01-23 14.20.44.jpg" caption="We used quite a lot of nails" >}}
 {{< figure src="13327388_10154293617694312_8560782731321699643_n.jpg" caption="Adding nails" >}}
 {{< figure src="13393936_10154293617764312_4190936496447734268_n.jpg" caption="Adding nails" >}}
 {{< figure src="13307461_10154293617984312_5647845679691238210_n.jpg" caption="Adding string" >}}

@@ -9,14 +9,14 @@ This dulcimer was a present for my mother for Christmas 2018. She had found this
 
 {{< youtube kDZ34yftdqQ >}}
 
-{{< figure src="2018-12-16-11.09.52.jpg" caption="The finished product" >}}
-{{< figure src="2018-11-28-18.23.54.jpg" caption="" >}}
-{{< figure src="2018-12-16-11.10.05.jpg" caption="" >}}
-{{< figure src="2018-12-16-11.10.11.jpg" caption="" >}}
-{{< figure src="2018-12-16-11.10.33.jpg" caption="" >}}
-{{< figure src="2018-12-16-11.12.02.jpg" caption="" >}}
-{{< figure src="2018-12-16-11.11.51.jpg" caption="" >}}
-{{< figure src="2018-12-16-11.11.21.jpg" caption="" >}}
-{{< figure src="2018-12-16-11.12.30.jpg" caption="" >}}
-{{< figure src="2018-12-16-11.11.14.jpg" caption="" >}}
-{{< figure src="2018-12-16-11.12.17.jpg" caption="The bottom of the box" >}}
+{{< figure src="2018-12-16 11.09.52.jpg" caption="The finished product" >}}
+{{< figure src="2018-11-28 18.23.54.jpg" caption="" >}}
+{{< figure src="2018-12-16 11.10.05.jpg" caption="" >}}
+{{< figure src="2018-12-16 11.10.11.jpg" caption="" >}}
+{{< figure src="2018-12-16 11.10.33.jpg" caption="" >}}
+{{< figure src="2018-12-16 11.12.02.jpg" caption="" >}}
+{{< figure src="2018-12-16 11.11.51.jpg" caption="" >}}
+{{< figure src="2018-12-16 11.11.21.jpg" caption="" >}}
+{{< figure src="2018-12-16 11.12.30.jpg" caption="" >}}
+{{< figure src="2018-12-16 11.11.14.jpg" caption="" >}}
+{{< figure src="2018-12-16 11.12.17.jpg" caption="The bottom of the box" >}}

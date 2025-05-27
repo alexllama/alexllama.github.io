@@ -1,6 +1,6 @@
 ---
 title: "DIY Guitar Pickup"
-date: 2019-06-04
+date: 2019-05-14
 draft: false
 description: "DIY Guitar Pickup"
 tags: ["guitar", "pickup", "diy", "homemade instrument"]
