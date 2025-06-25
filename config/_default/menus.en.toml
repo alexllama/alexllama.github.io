@@ -133,12 +133,12 @@ parent = "kNkZxyimtI"
 weight = 5
 
 
-###### Other Projects ######
+###### Misc Instruments ######
 
 [[main]]
-name = "Other Projects"
-pageRef = "otherprojects"
-url = "/otherprojects/"
+name = "Misc Instruments"
+pageRef = "miscinstruments"
+url = "/miscinstruments/"
 identifier = "3yV9yfPrBj"
 weight = 3
 
