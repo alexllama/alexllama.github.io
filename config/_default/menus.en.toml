@@ -142,6 +142,17 @@ url = "/miscinstruments/"
 identifier = "3yV9yfPrBj"
 weight = 3
 
+###### Electronics ######
+
+[[main]]
+name = "Electronics"
+pageRef = "electronics"
+url = "/electronics/"
+identifier = "suyRDlkuyR"
+weight = 4
+
+
+
 ###### Footer ######
 
 [[footer]]
