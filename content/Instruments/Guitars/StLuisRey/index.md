@@ -10,7 +10,7 @@ I went to Cuba in 2016 and brought back this cigar box with the intention of mak
 {{< youtube rPT5QOBJIAQ >}}
 {{< youtube 71ovfELvmdk >}}
 
-{{< figure src="2017-03-05 14.20.51.jpg" caption="The (mostly) final product…I added fret markers later by using some screws    " >}}
+{{< figure src="2016-11-12 11.05.29.jpg" caption="The (mostly) final product…I added fret markers later by using some screws    " >}}
 {{< figure src="2016-11-12 11.05.39.jpg" caption="I love all the scribbles. The previous owner of this box was doing some math…" >}}
 {{< figure src="2017-11-19 15.54.56.jpg" caption="Bolt bridge, and cabinet hinge to hold the strings" >}}
 {{< figure src="2016-09-24 10.44.45.jpg" caption="Making space for the lid to close over the neck. You make a bunch of shallow cuts, then use a screwdriver to snap them off. Then sand down to smooth" >}}
