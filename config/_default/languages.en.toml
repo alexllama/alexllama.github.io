@@ -10,7 +10,7 @@ rtl = false
 dateFormat = "2 January 2006"
 logo = "llamalogo_icon.png"
 secondaryLogo = "llamalogo_whitegray.png"
-description = "A collection of my instruments, musical creations, and other projects."
+description = "A collection of my instruments, musical creations, electronics tinkering and other projects."
 
 # Commented this out since it was showing up on the front page as the title of the page
 #[author]
