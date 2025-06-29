@@ -13,4 +13,5 @@ This is a modification I made to the [Scanner Camera](/photography/scannercamera
 {{< figure src="sample01.jpg" caption="Bourbon bottle" >}}
 {{< figure src="sample02.jpg" caption="The dock in our pond" >}}
 {{< figure src="sample03.jpg" caption="A house in the neighborhood" >}}
+{{< figure src="2024-06-01 15.02.43-1.jpg" caption="Boys at the dock" >}}
 
