@@ -160,6 +160,15 @@ url = "/Photography/"
 identifier = "uyffYFTUoh"
 weight = 5
 
+###### Woodworking ######
+
+[[main]]
+name = "Woodworking"
+pageRef = "woodworking"
+url = "/Woodworking/"
+identifier = "qrafsgdurj"
+weight = 6
+
 ###### Footer ######
 
 [[footer]]
