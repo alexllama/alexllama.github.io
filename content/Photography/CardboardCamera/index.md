@@ -5,7 +5,7 @@ draft: false
 description: "Cardboard Camera"
 tags: ["camera", "cardboard", "diy", "magnifying glass"]
 ---
-I don't remember where I got the idea for this, I may have seen a version of this on the internet. Regardless, this is basically three cardboard boxes. One box is inside the other and can slide in and out for focusing. The third box is just a sun shade so you can see the image. On the front of the box is the "lens", which is a magnifying glass. Inside the sun shade box is a piece of parchment paper. The light goes through the magnifying glass and is projected onto the parchment paper. The less light in the sun shade box, the better. Then just take a cellphone and take a picture of the image on the parchment paper
+This is a modification I made to the [Scanner Camera](/photography/scannercamera) when the scanner and laptop I was using for it died. Not wanting to throw it away, I removed the scanner and added a third box. The side of the box attached to the camera would hold a piece of parchment paper to act as the "film." Then I just take a picture of the image on the paper with my cellphone. While not pictured here, I also added a lid for the back with a cutout to hold the cellphone. That reduces the amount of ambient light that can get into the box, washing out the image. 
 
 {{< figure src="featured.jpg" caption="The finished product" >}}
 {{< figure src="2023-12-31 18.55.22.jpg" caption="Magnifying glass for a lens" >}}
