@@ -82,6 +82,13 @@ url = "/Instruments/Harps/"
 parent = "WaoMVczQl5"
 weight = 9
 
+[[main]]
+name = "Misc Instruments"
+pageRef = "miscinstruments"
+identifier = "miscinstruments"
+url = "/Instruments/MiscInstruments/"
+parent = "WaoMVczQl5"
+weight = 10
 
 ###### Gear ######
 
@@ -133,14 +140,7 @@ parent = "kNkZxyimtI"
 weight = 5
 
 
-###### Misc Instruments ######
 
-[[main]]
-name = "Misc Instruments"
-pageRef = "miscinstruments"
-url = "/MiscInstruments/"
-identifier = "3yV9yfPrBj"
-weight = 3
 
 ###### Electronics ######
 
