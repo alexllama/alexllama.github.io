@@ -15,7 +15,7 @@ summaryLength = 30
 [params]
   # (Optional) If you're using Google Analytics, add your tracking ID here
   googleAnalytics = ""
-  mainSections = ["Instruments", "MiscInstruments", "Gear", "Electronics", "Photography", "Woodworking", "Apparel"]
+  mainSections = ["Instruments", "Gear", "Electronics", "Photography", "Woodworking", "Apparel"]
   description = "A collection of my instruments, musical creations, electronics tinkering and other projects."
 
 [markup.highlight]
