@@ -179,12 +179,20 @@ identifier = "hfrYNBGFeT"
 weight = 7
 
 [[main]]
+name = "Watch Mods"
+pageRef = "watchmods"
+identifier = "watchmods"
+url = "/Apparel/Watch Mods/"
+parent = "hfrYNBGFeT"
+weight = 1
+
+[[main]]
 name = "Shirts"
 pageRef = "shirts"
 identifier = "shirts"
 url = "/Apparel/Shirts/"
 parent = "hfrYNBGFeT"
-weight = 1
+weight = 2
 
 ###### Footer ######
 
