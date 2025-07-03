@@ -10,7 +10,7 @@ As soon as I saw this Info Orbs [kit](https://brett.tech/collections/electronics
 It has a nice display to show the current weather and the forecast
 {{< figure src="featured.jpg" caption="" >}}
 
-A binary clock with my logo. The time is 8:23. Look at my Binary Clock build for info on how to read one
+A binary clock with my logo. The time is 8:23. Look at my [Binary Clock](/electronics/binaryclock) build for info on how to read one
 {{< figure src="customClockLlama.jpg" caption="" >}}
 
 Another custom clock I designed. Each orb shows a guitar amp volume knob, with the line pointing at the digit it is displaying. The time is 9:40.
