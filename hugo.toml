@@ -15,7 +15,7 @@ summaryLength = 30
 [params]
   # (Optional) If you're using Google Analytics, add your tracking ID here
   googleAnalytics = ""
-  mainSections = ["Instruments", "MiscInstruments", "Gear", "Electronics", "Photography", "Woodworking"]
+  mainSections = ["Instruments", "MiscInstruments", "Gear", "Electronics", "Photography", "Woodworking", "Apparel"]
   description = "A collection of my instruments, musical creations, electronics tinkering and other projects."
 
 [markup.highlight]
@@ -54,4 +54,8 @@ summaryLength = 30
     name = "Woodworking"
     url = "/Woodworking/"
     weight = 70
+  [[menu.main]]
+    name = "Apparel"
+    url = "/Apparel/"
+    weight = 80
   

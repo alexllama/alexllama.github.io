@@ -169,6 +169,23 @@ url = "/Woodworking/"
 identifier = "qrafsgdurj"
 weight = 6
 
+###### Apparel ######
+
+[[main]]
+name = "Apparel"
+pageRef = "apparel"
+url = "/Apparel/"
+identifier = "hfrYNBGFeT"
+weight = 7
+
+[[main]]
+name = "Shirts"
+pageRef = "shirts"
+identifier = "shirts"
+url = "/Apparel/Shirts/"
+parent = "hfrYNBGFeT"
+weight = 1
+
 ###### Footer ######
 
 [[footer]]
