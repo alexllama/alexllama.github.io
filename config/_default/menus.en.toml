@@ -146,7 +146,7 @@ weight = 5
 
 [[main]]
 name = "Electronics"
-pageRef = "electronics"
+pageRef = "Electronics"
 url = "/Electronics/"
 identifier = "suyRDlkuyR"
 weight = 4
@@ -173,7 +173,7 @@ weight = 6
 
 [[main]]
 name = "Apparel"
-pageRef = "apparel"
+pageRef = "Apparel"
 url = "/Apparel/"
 identifier = "hfrYNBGFeT"
 weight = 7

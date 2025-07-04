@@ -1,4 +1,4 @@
 ---
-title: "Electronics"
-list_filter: ["electronics"]
+title: "Apparel"
+list_filter: ["apparel"]
 ---

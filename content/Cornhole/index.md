@@ -7,17 +7,11 @@ tags: ["cornhole", "tracker"]
 showHero: false
 ---
 
-
-
 <style>
-html, body {
-  margin: 0;
-  padding: 0;
-  width: 100vw;
-}
+/* Remove global html/body overrides to preserve theme layout */
 .cornhole-container {
   width: 100vw;
-  margin: 0;
+  margin-left: calc(-50vw + 50%);
   font-family: sans-serif;
   position: relative;
   min-height: 100vh;

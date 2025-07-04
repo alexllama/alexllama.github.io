@@ -1,4 +1,4 @@
 ---
-title: "Canjos"
-list_filter: ["canjos"]
+title: "Watch Mods"
+list_filter: ["watchmods"]
 ---
