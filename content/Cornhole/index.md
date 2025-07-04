@@ -1,6 +1,9 @@
 ---
 title: "Cornhole Score Tracker"
 draft: false
+date: 2025-07-04
+description: "Cornhole Score Tracker"
+tags: ["cornhole", "tracker"]
 ---
 
 <style>
@@ -154,11 +157,12 @@ html, body {
   }
   .cornhole-end-round-btn {
     font-size: 1em;
-    padding: 10px 16px;
+    min-width: 0;
+    padding: 10px 10px;
   }
   .cornhole-restart-btn {
     font-size: 1em;
-    padding: 12px 0;
+    padding: 12px 12px;
   }
   .cornhole-score-row {
     gap: 8px;
