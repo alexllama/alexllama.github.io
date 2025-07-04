@@ -4,9 +4,14 @@ draft: false
 ---
 
 <style>
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100vw;
+}
 .cornhole-container {
-  max-width: 700px;
-  margin: 0 auto;
+  width: 100vw;
+  margin: 0;
   font-family: sans-serif;
   position: relative;
   min-height: 100vh;
@@ -142,7 +147,6 @@ draft: false
 }
 @media (max-width: 600px) {
   .cornhole-container {
-    max-width: 100vw;
     padding: 0;
   }
   .cornhole-section {
