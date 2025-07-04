@@ -13,7 +13,6 @@ showHero: false
   width: 100vw;
   margin-left: calc(-50vw + 50%);
   font-family: sans-serif;
-  position: relative;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
