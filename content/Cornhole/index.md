@@ -4,7 +4,10 @@ draft: false
 date: 2025-07-04
 description: "Cornhole Score Tracker"
 tags: ["cornhole", "tracker"]
+showHero: false
 ---
+
+
 
 <style>
 html, body {
@@ -173,6 +176,7 @@ html, body {
     font-size: 1.1em;
   }
 }
+.single .cover, .single .featured-image, .single .page-header__cover { display: none !important; }
 </style>
 
 <div class="cornhole-container">
