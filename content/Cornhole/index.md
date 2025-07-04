@@ -18,6 +18,38 @@ showHero: false
   flex-direction: column;
   justify-content: space-between;
 }
+
+/* Mobile-specific full-width override */
+@media (max-width: 640px) {
+  .cornhole-container {
+    width: 100vw;
+    margin-left: -24px; /* px-6 = 24px */
+  }
+}
+
+/* Small screens and up */
+@media (min-width: 641px) and (max-width: 768px) {
+  .cornhole-container {
+    width: 100vw;
+    margin-left: -56px; /* sm:px-14 = 56px */
+  }
+}
+
+/* Medium screens and up */
+@media (min-width: 769px) and (max-width: 1024px) {
+  .cornhole-container {
+    width: 100vw;
+    margin-left: -96px; /* md:px-24 = 96px */
+  }
+}
+
+/* Large screens and up */
+@media (min-width: 1025px) {
+  .cornhole-container {
+    width: 100vw;
+    margin-left: -128px; /* lg:px-32 = 128px */
+  }
+}
 .cornhole-section {
   flex: 1 1 0;
   display: flex;
