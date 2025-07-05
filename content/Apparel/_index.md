@@ -1,4 +1,4 @@
 ---
 title: "Apparel"
-list_filter: ["apparel"]
+list_filter: ["Apparel"]
 ---

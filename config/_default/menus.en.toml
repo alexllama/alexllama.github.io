@@ -139,9 +139,6 @@ url = "/Gear/Speakers/"
 parent = "kNkZxyimtI"
 weight = 5
 
-
-
-
 ###### Electronics ######
 
 [[main]]
@@ -193,6 +190,15 @@ identifier = "shirts"
 url = "/Apparel/Shirts/"
 parent = "hfrYNBGFeT"
 weight = 2
+
+###### Code ######
+
+[[main]]
+name = "Code"
+pageRef = "Code"
+url = "/Code/"
+identifier = "kiUHedGdcY"
+weight = 8
 
 ###### Footer ######
 
