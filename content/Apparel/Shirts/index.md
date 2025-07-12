@@ -5,8 +5,9 @@ draft: false
 description: "Shirts"
 tags: ["shirts", "cricut", "sublimation"]
 ---
-My wife got a Cricut to make various crafts. I discovered that you can buy vinyl sheets that adhere to fabric with heat...basically an iron-on but a bit better quality. Here are the shirts I have made.
+My wife got a Cricut to make various crafts. I discovered that you can buy vinyl sheets that adhere to fabric with heat...basically an iron-on but a bit better quality. After getting the bug to make shirts I discovered sublimation printing, which lets you use a printer and special inks to make more intricate designs. Here are the shirts I have made.
 
+## Cricut Vynil
 I could just buy a shirt with the name of my kids' school sports teams, or I could make my own mimicking the Thrasher magazine logo. You won't be surprised to learn which option I went with.
 {{< figure src="Brockport.jpg" caption="" >}}
 
@@ -31,5 +32,38 @@ This is the first shirt I made. Sunn O))) is a band that plays ambient drone met
 This was the first time I tried making a shirt with two diffent colors. It took patience to get them lined up correctly. It is for my Alma Matter, the University of Central Florida.
 {{< figure src="UCF.jpg" caption="" >}}
 
-My wife is a Miami Dolphins fan, and my son is a Buffalo Bills fan. I have no particular interest in Football, so I can't show a preference during the days when the two rivals play each other twice a year. So I made this shirt to keep the peace at home. I used a sublimation printer for this one...
+My first computer was a TRS-80 Color Computer from Radio Shack when I was 13 or so. I will never forget the sales pitch from the store clerk. He looked at my mom and I and presented two major features:
+- if you drop this computer in a bathtub while plugged in, it will NOT electrocute you
+- if you stand on this computer, it will not break
+As you can imagine, I was sold! 
+{{< figure src="trs80.jpg" caption="" >}}
+
+Sleep is a Stoner Metal band that I came to learn about for their legendary song "Dopesmoker", which is basically 60 minutes of the same riff repeated over and over with lyrics here and there. That might sound exhausting, but it's actually trance-inducing. Given the inspiration for the band's music, which I shouldn't have to spell out given the song title and genre name, I have had a couple of interactions with people that just have to tell me "Duuude, I looooove that band". Whenever I travel I wear this shirt to the airport, because we tend to take very early flights, and this shirt announces what I would rather be doing than sitting in an airport. 
+{{< figure src="sleep.jpg" caption="" >}}
+
+The city of Rochester, New York has a good marketing team. The logo supposedly combines a lilac and a water wheel to represent two of Rochester's nicknames: Flower City and Flour City (see above for another shirt inspired by this). I always thought the logo looked inspired by the Quicksilver logo, and that if you cut one of the sides you could make it look like a wave. This is where I got the idea for the Rochester Surf Co. I made the shirt as a joke, since there are zero waves on Lake Ontario. Most of the time it goes unnoticed, but a couple of people have stopped me and asked about the surf club.
+{{< figure src="rocsurfco.jpg" caption="" >}}
+
+Play Music On The Porch Day is an event that takes place every year on the last Saturday in August. The [website](https://playmusicontheporchday.com/) tracks people from all over the globe that participate, uploading pictures and videos of themselves playing music on this day. Loving the idea I made this shirt, which shows some of the types of instruments that I make: a dulcimer, a cigar box guitar, a kalimba, and a cassette player amplifier.
+{{< figure src="playmusicontheporchday.jpg" caption="" >}}
+
+I have attended every Maker Faire in Rochester since it started as a Mini Maker Faire in 2014. Their shirt selection has never been that great, so I made this one with the Make Magazine mascot.
+{{< figure src="makerfaire.jpg" caption="" >}}
+
+I enjoy the trippy, nostalgic electronic music from Boards of Canada. Not much more to say about this one...
+{{< figure src="boardsofcanada.jpg" caption="" >}}
+
+## Sublimation Printer
+You will notice that the colors are not as bright on cotton shirts. This is something I discovered is a downside of sublimation printing, unless you print on 100% polyester shirts. They sell sprays you can use to pre-treat the shirt that supposedly helps with this, but I didn't see much of a difference. Also they fade with time. So if your design is supposed to look vintage, then this approach could work.
+
+My wife is a Miami Dolphins fan, and my son is a Buffalo Bills fan. I have no particular interest in Football, so I can't show a preference during the days when the two rivals play each other twice a year. So I made this shirt to keep the peace at home.
 {{< figure src="billfins.jpg" caption="" >}}
+
+An activity I would do with the kids when they were little was to bring paper and crayons on trips and trace over manhole covers with cool designs. On a trip to Puerto Rico, we traced this particular one in Old San Juan. These are all over the place and are about 6 inches wide. This particular one was on a busy sidewalk, and I'm sure we annoyed a few people while we sat there and traced. But the memory was worth it.
+{{< figure src="agua.jpg" caption="" >}}
+
+Vintage cameras are so much cooler looking than current versions, which all have a similar shape. This is a Rolleiflex Single Lens Reflex camera. Odd name for this camera style which actually has two lenses. One for the viewfinder, and one for actually taking the image. You actually hold it in front of your torso and look down into the viewfinder. I also made a sunprint with the same image used on this shirt.
+{{< figure src="rolleiflex.jpg" caption="" >}}
+
+Given the large size of the Hispanic population in Miami, I'm surprised I have not seen shirts with the team name in Spanish. So I made one.
+{{< figure src="delfines.jpg" caption="" >}}
