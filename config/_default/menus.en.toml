@@ -200,6 +200,22 @@ url = "/Code/"
 identifier = "kiUHedGdcY"
 weight = 8
 
+[[main]]
+name = "Cornhole Score Tracker"
+pageRef = "cornhole"
+identifier = "cornhole"
+url = "/Code/Cornhole/"
+parent = "kiUHedGdcY"
+weight = 1
+
+[[main]]
+name = "Weather Hologram"
+pageRef = "weatherhologram"
+identifier = "weatherhologram"
+url = "/Apparel/WeatherHologram/"
+parent = "kiUHedGdcY"
+weight = 2
+
 ###### Footer ######
 
 [[footer]]
