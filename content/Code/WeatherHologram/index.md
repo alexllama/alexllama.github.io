@@ -116,3 +116,9 @@ showHero: false
   fetchWeather();
   setInterval(fetchWeather, 600000);
 </script>
+
+
+<div style="text-align: center;">
+  <div style="width: 500px; margin: 0 auto; background: #000; color: #fff;">Inspiration and code from <a href="https://www.instructables.com/Trap-the-Current-Weather-in-a-Box/">here</a>. Pics of the project coming soon!</div>
+
+</div> 
