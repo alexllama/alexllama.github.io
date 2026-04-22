@@ -4,6 +4,8 @@ languageCode = 'en-us'
 title = 'Strings and Tines'
 theme = 'blowfish'
 
+#smoke test to verify upload is working
+
 # Required for the Blowfish theme
 enableRobotsTXT = true
 
