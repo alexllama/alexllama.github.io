@@ -20,7 +20,7 @@ jobs:
     env:
       # This forces the runner to use Node 24 and stop the deprecation noise
       FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
-      HUGO_VERSION: 0.140.0
+      HUGO_VERSION: 0.145.0
     steps:
       - name: Checkout
         uses: actions/checkout@v4
