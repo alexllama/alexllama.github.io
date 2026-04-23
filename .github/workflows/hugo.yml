@@ -14,15 +14,13 @@ concurrency:
   group: "pages"
   cancel-in-progress: false
 
-defaults:
-  run:
-    shell: bash
-
 jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      HUGO_VERSION: 0.140.0 # Modernized Hugo version for better theme compatibility
+      HUGO_VERSION: 0.140.0
+      # This bypasses the GitHub runner's strict Node 20 deprecation check
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true 
     steps:
       - name: Install Dart Sass
         run: sudo snap install dart-sass
@@ -30,7 +28,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          submodules: recursive # Automatically handles submodules during checkout
+          submodules: recursive
           fetch-depth: 0
 
       - name: Setup Hugo
@@ -51,6 +49,7 @@ jobs:
           hugo \
             --gc \
             --minify \
+            --verbose \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
 
       - name: Upload artifact
