@@ -1,5 +1,5 @@
-baseURL = 'https://alexllama.github.io/'
-#baseURL = 'https://stringsandtines.com/'
+#baseURL = 'https://alexllama.github.io/'
+baseURL = 'https://stringsandtines.com/'
 languageCode = 'en-us'
 title = 'Strings and Tines'
 theme = 'blowfish'
