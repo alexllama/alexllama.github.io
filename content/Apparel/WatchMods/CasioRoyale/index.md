@@ -29,3 +29,5 @@ Here is what it looked like after completing this mod. Note how much clearer the
 
 And since this watch has an orange LED on each side, when you light it up in the dark it looks even better
 {{< figure src="casioroyale01.jpg" caption="" >}}
+
+Unable to leave this watch alone, I made a couple of 3D printed faceplates for it. Those are described [here](3dprinting/casioroyale).
