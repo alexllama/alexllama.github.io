@@ -157,6 +157,7 @@ url = "/Photography/"
 identifier = "uyffYFTUoh"
 weight = 5
 
+
 ###### Woodworking ######
 
 [[main]]
@@ -166,6 +167,15 @@ url = "/Woodworking/"
 identifier = "qrafsgdurj"
 weight = 6
 
+###### 3D Printing ######
+
+[[main]]
+name = "3D Printing"
+pageRef = "3dprinting"
+url = "/3DPrinting/"
+identifier = "aksldjfyru"
+weight = 7
+
 ###### Apparel ######
 
 [[main]]
@@ -173,7 +183,7 @@ name = "Apparel"
 pageRef = "Apparel"
 url = "/Apparel/"
 identifier = "hfrYNBGFeT"
-weight = 7
+weight = 8
 
 [[main]]
 name = "Watch Mods"
@@ -198,7 +208,7 @@ name = "Code"
 pageRef = "Code"
 url = "/Code/"
 identifier = "kiUHedGdcY"
-weight = 8
+weight = 9
 
 [[main]]
 name = "Cornhole Score Tracker"
