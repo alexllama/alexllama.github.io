@@ -57,11 +57,15 @@ summaryLength = 30
     url = "/Woodworking/"
     weight = 60
   [[menu.main]]
+    name = "3D Printing"
+    url = "/3D Printing/"
+    weight = 70
+  [[menu.main]]
     name = "Apparel"
     url = "/Apparel/"
-    weight = 70
+    weight = 80
   [[menu.main]]
     name = "Code"
     url = "/Code/"
-    weight = 80
+    weight = 90
   
